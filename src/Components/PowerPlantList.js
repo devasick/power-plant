@@ -165,9 +165,9 @@ export default class PowerPlantList extends Component {
                       <label>Filter</label>
                       <select onChange={this.filterType.bind(this)} value={this.state.filterType} className="browser-default">
                           <option value="">Select Type</option>
-                          <option value="WIND_ONSHORE">On Shore</option>
-                          <option value="WIND_OFFSHORE">Off Shore</option>
-                          <option value="HYDRO">Hydro</option>
+                          <option value="WIND_ONSHORE">WIND ONSHORE</option>
+                          <option value="WIND_OFFSHORE">WIND OFFSHORE</option>
+                          <option value="HYDRO">HYDRO</option>
                           <option value="BIOMASS">BIOMASS</option>
                       </select>
                   </div>

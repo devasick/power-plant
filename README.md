@@ -9,7 +9,7 @@ And here are some more feature ideas, but they are all optional:
 ● Filters for min/max production value
 ● Pagination with 10 power plants per page
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
 ### Installation 
 
 1. git clone https://github.com/devasick/power-plant/
@@ -20,5 +20,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here:http://power-plants.herokuapp.com/
+Please visit :http://power-plants.herokuapp.com/
 

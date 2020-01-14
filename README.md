@@ -10,8 +10,15 @@ And here are some more feature ideas, but they are all optional:
 ● Pagination with 10 power plants per page
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Installation 
+
+1. git clone https://github.com/devasick/power-plant/
+2. change directory to power-plant folder
+3. install npm
+4. npm start
+
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+This section has moved here:http://power-plants.herokuapp.com/
 
